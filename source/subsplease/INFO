@@ -1,0 +1,10 @@
+{
+  "name": "SubsPlease",
+  "displayname": "SubsPlease",
+  "description": "One stop shop for new anime",
+  "version": "1.1",
+  "site": "https://subsplease.org/",
+  "module": "search.php",
+  "type": "search",
+  "class": "SynoDLMSearchSubsPlease"
+}
